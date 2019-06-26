@@ -1,3 +1,9 @@
+# compiled files
+www/
+
+# capacitor android project
+android/
+
 # Logs
 logs
 *.log
